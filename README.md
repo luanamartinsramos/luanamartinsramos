@@ -8,8 +8,8 @@
 - Programadora iniciante 👩🏼‍💻
 - Estudando JavaScript 📖
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon11&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon11&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-11&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-11&layout=compact&theme=synthwave)
 
 
 <div style="display: inline_block"><br>
