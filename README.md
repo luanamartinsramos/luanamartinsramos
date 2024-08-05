@@ -1,25 +1,50 @@
-<img width="100%" src="https://camo.githubusercontent.com/68752bf01bb8955c5a818666bd26d8bf0ea85693e0164a896c363a25b1fb226f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d68656164657226746578743d26666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bem+vindos+ao+meu+GitHub!👩🏼‍💻;&font=Fira%20Code&center=true&width=400&height=100&duration=4000&pause=1000"  alt="Example Usage - README Typing SVG">
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-##  ♙🌸 𝑶𝒍𝒂́, 𝒎𝒆 𝒄𝒉𝒂𝒎𝒐 𝑳𝒖𝒂𝒏𝒂! 🌸♙   <img align="right"   width="150px"  height="150px"   src = "https://cdn.discordapp.com/attachments/1080519843209560124/1245367218347180164/H0gLoJEwT0K2yoU25c03F396j8izmBHYAAAAAElFTkSuQmCC.png?ex=66587e1a&is=66572c9a&hm=593fba8101efaf71ee4ff37f6637456a13e16219d7b849f75d2f6e30c6e62ca1&">
-      
-- Programadora iniciante 👩🏼‍💻
-- Estudando JavaScript 📖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Luana+Martins🌸;Tenho+19+anos;Sou+Desenvolvedora+Frontend+👩🏼‍💻;)](https://git.io/typing-svg)
+<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-11&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-11&layout=compact&theme=synthwave)
+## Experience with
+
+### 🚀 Frameworks & Library:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img src="https://img.shields.io/badge/Styled Components-38B2AC?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-2C8EBB?style=for-the-badge&logo=npm&logoColor=white">
+</div>
+
+### 👩🏼‍💻 Languages:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 
-<div style="display: inline_block"><br>
-  <img  align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+### 💻 Terminal & Version control:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+</div>
+
+### 🔧 IDE'S:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</div>
+
+### ☁ Cloud:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
 ##
+<div align="center">
+  <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moon-11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-11&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
-
-<img width="100%" src="https://camo.githubusercontent.com/c66235b8ce5917181ae21327d19696e716710ace0a4495ac4f8c998d825332b3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572">
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
