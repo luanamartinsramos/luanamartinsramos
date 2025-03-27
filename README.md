@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+I'm+Luana+Martins🌸;Passionate+Front-End+Developer!)](https://git.io/typing-svg)
 
-<img src="https://global.discourse-cdn.com/nubank/original/3X/d/4/d4861933dd8725efeb2574861bf7b3151daa1ee1.gif" width="400"/>
+<img src="https://global.discourse-cdn.com/nubank/original/3X/d/4/d4861933dd8725efeb2574861bf7b3151daa1ee1.gif" width="100"/>
 
 </div>
 
