@@ -1,50 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6b3fa0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Luana+Martins🌸;Tenho+19+anos;Sou+Desenvolvedora+Frontend+👩🏼‍💻;)](https://git.io/typing-svg)
-<br><br>
-
-## Experience with
-
-### 🚀 Frameworks & Library:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-  <img src="https://img.shields.io/badge/Styled Components-38B2AC?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-2C8EBB?style=for-the-badge&logo=npm&logoColor=white">
-</div>
-
-### 👩🏼‍💻 Languages:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-
-### 💻 Terminal & Version control:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-</div>
-
-### 🔧 IDE'S:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</div>
-
-### ☁ Cloud:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
-
-##
 <div align="center">
-  <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moon-11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-11&layout=compact&langs_count=7&theme=dracula"/>
+
+# 💻 Luana Martins  
+### Front-End Developer | 19 years old  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+I'm+Luana+Martins🌸;Passionate+Front-End+Developer!)](https://git.io/typing-svg)
+
+<img src="https://global.discourse-cdn.com/nubank/original/3X/d/4/d4861933dd8725efeb2574861bf7b3151daa1ee1.gif" width="400"/>
+
 </div>
 
+---
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+## 🚀 Technologies & Tools  
+
+### 📌 **Languages**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />
+</div>
+
+### ⚡ **Frameworks & Libraries**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50px" />
+  <img src="https://styled-components.com/logo.png" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" />
+</div>
+
+### 🛠 **Tools & IDEs**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50px" />
+</div>
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moon-11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-11&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+<div align="center">
+  🌟 *"Transforming ideas into code, one component at a time."* 🌟  
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6b3fa0&height=120&section=footer"/>
